@@ -1,0 +1,179 @@
+{
+ "source": "https://ridetransfort.com/rider-info-rider-alerts/",
+ "fetched_at": "2026-11-03T17:05:00+00:00",
+ "alerts": [
+  {
+   "type": "Detour",
+   "routes": [
+    "14"
+   ],
+   "start": "2026-11-06",
+   "end": null,
+   "text": "Route 14 detour 11/06/26 stops affected.",
+   "kind": "detour",
+   "id": "b522e9ac",
+   "stops": []
+  },
+  {
+   "type": "Detour",
+   "routes": [
+    "HORN",
+    "6"
+   ],
+   "start": "2026-10-05",
+   "end": null,
+   "text": "Routes 6 and HORN detour 10/05/26 stops affected.",
+   "kind": "detour",
+   "id": "52f7126c",
+   "stops": []
+  },
+  {
+   "type": "Bus Stop Closure",
+   "routes": [
+    "16"
+   ],
+   "start": "2026-10-19",
+   "end": null,
+   "text": "Route 16 stop at Harmony and Wheaton closed.",
+   "kind": "closure",
+   "id": "92a9c761",
+   "stops": [
+    {
+     "id": "108",
+     "code": "1248",
+     "name": "Harmony & Wheaton (e Of)",
+     "role": "closed"
+    }
+   ]
+  },
+  {
+   "type": "Service Information",
+   "routes": [
+    "3"
+   ],
+   "start": "2026-08-31",
+   "end": null,
+   "text": "Route 3 servicing new Westbound stop Elizabeth & Constitution #244.",
+   "kind": "info",
+   "id": "24d3987f",
+   "stops": [
+    {
+     "id": null,
+     "code": "244",
+     "name": null,
+     "role": "new"
+    }
+   ]
+  },
+  {
+   "type": "Service Information",
+   "routes": [
+    "81"
+   ],
+   "start": "2026-08-20",
+   "end": null,
+   "text": "Rt 81 College & Willox #1462 stop closed. Now servicing Willox & College #1699",
+   "kind": "info",
+   "id": "646af139",
+   "stops": [
+    {
+     "id": "365",
+     "code": "1462",
+     "name": "College & Willox (n Of)",
+     "role": "closed"
+    },
+    {
+     "id": "1043",
+     "code": "1699",
+     "name": "Willox & College",
+     "role": "new"
+    }
+   ]
+  },
+  {
+   "type": "Service Information",
+   "routes": [
+    "GOLD"
+   ],
+   "start": "2022-08-15",
+   "end": null,
+   "text": "Real time info may not display for the GOLD route.",
+   "kind": "info",
+   "id": "6e505a52",
+   "stops": []
+  },
+  {
+   "type": "Service Information",
+   "routes": [
+    "FHS"
+   ],
+   "start": "2022-08-15",
+   "end": null,
+   "text": "Real time info may not display for the Foothills Shuttle route.",
+   "kind": "info",
+   "id": "a6be507f",
+   "stops": []
+  },
+  {
+   "type": "FHS & GOLD Vehicle Announcement",
+   "routes": [
+    "GOLD",
+    "FHS"
+   ],
+   "start": "2022-08-12",
+   "end": null,
+   "text": "Vehicle substitutions may occur on FHS and GOLD routes. Please look for zTrip cars, vans, or other vehicles servicing this route until further notice.",
+   "kind": "vehicle",
+   "id": "50fbe7a7",
+   "stops": []
+  }
+ ],
+ "docs": {
+  "HORN": [
+   {
+    "title": "SB HORN Engineering Lot Detour",
+    "url": "https://ridetransfort.com/sb-horn-engineering-lot-detour-10-05-26/",
+    "start": "2026-10-20",
+    "end": null
+   },
+   {
+    "title": "NB HORN Engineering Lot Detour",
+    "url": "https://ridetransfort.com/nb-horn-engineering-lot-detour-10-05-26/",
+    "start": "2026-10-15",
+    "end": null
+   }
+  ],
+  "FHS": [
+   {
+    "title": "Foothills Shuttle Detour 9-8-26",
+    "url": "https://ridetransfort.com/fhs-detour-9-8-26/",
+    "start": "2026-09-08",
+    "end": null
+   }
+  ],
+  "3": [
+   {
+    "title": "Route 3 Stop Change 8-31-26",
+    "url": "https://ridetransfort.com/route-3-stop-change-8-31-26/",
+    "start": "2026-08-31",
+    "end": null
+   }
+  ],
+  "6": [
+   {
+    "title": "RT 6 Engineering Lot Detour",
+    "url": "https://ridetransfort.com/wp-content/uploads/RT-6-Engineering-Lot-Detour-10-5-26.png",
+    "start": "2026-10-05",
+    "end": null
+   }
+  ],
+  "81": [
+   {
+    "title": "Route 81 Stop Changes 08/20/26",
+    "url": "https://ridetransfort.com/rt-81-stop-changes-8-20-26/",
+    "start": "2026-08-20",
+    "end": null
+   }
+  ]
+ }
+}

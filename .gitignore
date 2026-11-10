@@ -1,0 +1,11 @@
+# source data (large; see "Data sources" in the README to download)
+raw/
+# build output (GitHub Actions rebuilds the site from web/)
+dist/
+web/index.html
+# python / os
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store

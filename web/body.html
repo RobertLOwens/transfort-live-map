@@ -1,0 +1,25 @@
+<div class="app">
+  <aside class="panel" aria-label="Routes and schedules">
+    <header class="panel-head">
+      <div class="brand"><h1>Transfort <span>Live Map</span></h1><div class="clock" id="clock" aria-label="Current time in Fort Collins">--:--</div></div>
+      <label class="search" for="q">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+        <input id="q" type="search" placeholder="Search stops or routes" autocomplete="off" aria-label="Search stops or routes">
+      </label>
+      <div class="tabs" role="tablist">
+        <button class="tab" role="tab" data-tab="routes" aria-selected="true">Routes</button>
+        <button class="tab" role="tab" data-tab="favs" aria-selected="false">Favorites<span class="count" id="fav-count"></span></button>
+        <button class="tab" role="tab" data-tab="pins" aria-selected="false">Pins<span class="count" id="pin-count"></span></button>
+      </div>
+    </header>
+    <div class="panel-body" id="panel-body"></div>
+  </aside>
+  <main id="map" aria-label="Map of Transfort bus routes"></main>
+  <div class="map-ctrl">
+    <button id="add-pin" aria-pressed="false" aria-label="Add pin" title="Drop a pin (or right-click the map)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11z"/><path d="M12 7v6M9 10h6"/></svg><span class="lbl">Add pin</span></button>
+    <button id="toggle-bike" aria-pressed="false" aria-label="Bike network"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="16" r="3.5"/><circle cx="18" cy="16" r="3.5"/><path d="M6 16l4-8h5l3 8M10 8l2.5 8H6M14 5h2"/></svg><span class="lbl">Bike network</span></button>
+    <button id="toggle-buses" aria-pressed="true"><span class="pip"></span><span id="bus-count">0</span> buses (scheduled)</button>
+  </div>
+  <div class="pin-hint" id="pin-hint" role="status" hidden>Click the map to drop a pin · <kbd>Esc</kbd> to cancel</div>
+  <div class="bike-legend" id="bike-legend" hidden></div>
+</div>

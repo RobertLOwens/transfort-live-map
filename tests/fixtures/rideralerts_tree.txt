@@ -1,0 +1,86 @@
+table [ref_215]
+ generic "Route" [ref_216]
+ generic "Alert Type" [ref_217]
+ link [ref_218] href="https://ridetransfort.com/routes/gold/"
+  generic "Gold" [ref_219]
+ heading "Service Information (Effective: 08/15/2022 – TBD)" [ref_220]
+  generic "(Effective: 08/15/2022 – TBD)" [ref_221]
+ generic "Real time info may not display for the GOLD route. Info:" [ref_222]
+  link "ridetransfort.com" [ref_223] href="https://ridetransfort.com"
+ heading "FHS & GOLD Vehicle Announcement (Effective: 08/12/2022 – TBD)" [ref_224]
+  generic "(Effective: 08/12/2022 – TBD)" [ref_225]
+ generic "Vehicle substitutions may occur on FHS and GOLD routes. Please look for zTrip cars, vans, or other v" [ref_226]
+ link [ref_227] href="https://ridetransfort.com/routes/horn/"
+  generic "Horn" [ref_228]
+ heading "Detour (Effective: 10/05/2026 – TBD)" [ref_229]
+  generic "(Effective: 10/05/2026 – TBD)" [ref_230]
+ generic "Routes 6 and HORN detour 10/05/26 stops affected. Info:" [ref_231]
+  link "ridetransfort.com" [ref_232] href="https://ridetransfort.com"
+ generic [ref_233]
+  generic [ref_234]
+   heading "Rider alert maps & docs" [ref_235]
+  list [ref_236]
+   listitem "(10/20/2026 – TBD)" [ref_237]
+    link "SB HORN Engineering Lot Detour" [ref_238] href="https://ridetransfort.com/sb-horn-engineering-lot-detour-10-05-26/"
+   listitem "(10/15/2026 – TBD)" [ref_239]
+    link "NB HORN Engineering Lot Detour" [ref_240] href="https://ridetransfort.com/nb-horn-engineering-lot-detour-10-05-26/"
+ link [ref_241] href="https://ridetransfort.com/routes/foothills-shuttle/"
+  generic "Foothills Shuttle" [ref_242]
+ heading "Service Information (Effective: 08/15/2022 – TBD)" [ref_243]
+  generic "(Effective: 08/15/2022 – TBD)" [ref_244]
+ generic "Real time info may not display for the Foothills Shuttle route. Info:" [ref_245]
+  link "ridetransfort.com" [ref_246] href="https://ridetransfort.com"
+ heading "FHS & GOLD Vehicle Announcement (Effective: 08/12/2022 – TBD)" [ref_247]
+  generic "(Effective: 08/12/2022 – TBD)" [ref_248]
+ generic "Vehicle substitutions may occur on FHS and GOLD routes. Please look for zTrip cars, vans, or other v" [ref_249]
+ generic [ref_250]
+  generic [ref_251]
+   heading "Rider alert maps & docs" [ref_252]
+  list [ref_253]
+   listitem "(09/08/2026 – TBD)" [ref_254]
+    link "Foothills Shuttle Detour 9-8-26" [ref_255] href="https://ridetransfort.com/fhs-detour-9-8-26/"
+ link [ref_256] href="https://ridetransfort.com/routes/route-3/"
+  generic "Route 3" [ref_257]
+ heading "Service Information (Effective: 08/31/2026 – TBD)" [ref_258]
+  generic "(Effective: 08/31/2026 – TBD)" [ref_259]
+ generic "Route 3 servicing new Westbound stop Elizabeth & Constitution #244." [ref_260]
+ generic [ref_261]
+  generic [ref_262]
+   heading "Rider alert maps & docs" [ref_263]
+  list [ref_264]
+   listitem "(08/31/2026 – TBD)" [ref_265]
+    link "Route 3 Stop Change 8-31-26" [ref_266] href="https://ridetransfort.com/route-3-stop-change-8-31-26/"
+ link [ref_267] href="https://ridetransfort.com/routes/route-6/"
+  generic "Route 6" [ref_268]
+ heading "Detour (Effective: 10/05/2026 – TBD)" [ref_269]
+  generic "(Effective: 10/05/2026 – TBD)" [ref_270]
+ generic "Routes 6 and HORN detour 10/05/26 stops affected. Info:" [ref_271]
+  link "ridetransfort.com" [ref_272] href="https://ridetransfort.com"
+ generic [ref_273]
+  generic [ref_274]
+   heading "Rider alert maps & docs" [ref_275]
+  list [ref_276]
+   listitem "(10/05/2026 – TBD)" [ref_277]
+    link "RT 6 Engineering Lot Detour" [ref_278] href="https://ridetransfort.com/wp-content/uploads/RT-6-Engineering-Lot-Detour-10-5-26.png"
+ link [ref_279] href="https://ridetransfort.com/routes/route-14/"
+  generic "Route 14" [ref_280]
+ heading "Detour (Effective: 11/06/2026 – TBD)" [ref_281]
+  generic "(Effective: 11/06/2026 – TBD)" [ref_282]
+ generic "Route 14 detour 11/06/26 stops affected. Info:" [ref_283]
+  link "ridetransfort.com" [ref_284] href="https://ridetransfort.com"
+ link [ref_285] href="https://ridetransfort.com/routes/route-16/"
+  generic "Route 16" [ref_286]
+ heading "Bus Stop Closure (Effective: 10/19/2026 – TBD)" [ref_287]
+  generic "(Effective: 10/19/2026 – TBD)" [ref_288]
+ generic "Route 16 stop at Harmony and Wheaton closed." [ref_289]
+ link [ref_290] href="https://ridetransfort.com/routes/route-81/"
+  generic "Route 81" [ref_291]
+ heading "Service Information (Effective: 08/20/2026 – TBD)" [ref_292]
+  generic "(Effective: 08/20/2026 – TBD)" [ref_293]
+ generic "Rt 81 College & Willox #1462 stop closed. Now servicing Willox & College #1699" [ref_294]
+ generic [ref_295]
+  generic [ref_296]
+   heading "Rider alert maps & docs" [ref_297]
+  list [ref_298]
+   listitem "(08/20/2026 – TBD)" [ref_299]
+    link "Route 81 Stop Changes 08/20/26" [ref_300] href="https://ridetransfort.com/rt-81-stop-changes-8-20-26/"

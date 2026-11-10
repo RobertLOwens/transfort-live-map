@@ -1,0 +1,9 @@
+geopandas>=1.0
+shapely>=2.0
+pyproj>=3.6
+pyogrio>=0.7
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+beautifulsoup4>=4.12
+requests>=2.31
